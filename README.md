@@ -58,7 +58,6 @@ python B8_Mini project_1.py
 ```text
 B8-Student_Score_Analyzer-Mini_Project/
 ├── B8_Mini project_1.py
-├── B8_Assignment_1.py
 ├── README.md
 └── requirements.txt
 ```
